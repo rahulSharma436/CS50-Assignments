@@ -1,0 +1,11 @@
+sort1 uses: bubbleSort
+
+How do you know?: follows complexity of O(n)
+
+sort2 uses: selectionSort
+
+How do you know?: follows complexity of O(n*n)
+
+sort3 uses: mergeSort
+
+How do you know?: follows complexity of O(n log n)
